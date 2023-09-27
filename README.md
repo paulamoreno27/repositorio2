@@ -38,3 +38,8 @@ oergfojgoiejhg fjwrhpoigjeoigoier ghge`proighoiegroi ergpirgpherojgneo jfoiwrhjg
 [link](https://www.fje.edu/ca/fje "Enlace a la web del cole")
 
 ![Imagen de papi eladio](https://github.com/paulamoreno27/repositorio2/blob/main/papieladio.jpg "Titulo opcional")
+
+|Titulo |Alineación | Precios|
+|----------|:----------:|----------:|
+|Col 2 es|centrada|$500|
+|Col 3 es|Derecha|1500€|
