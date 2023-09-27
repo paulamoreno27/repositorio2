@@ -49,6 +49,8 @@ oergfojgoiejhg fjwrhpoigjeoigoier ghge`proighoiegroi ergpirgpherojgneo jfoiwrhjg
 ###### Exámen
 
 -[ ] Opción A
+
 -[X] Opción B
+
 -[ ] Opción C
 
