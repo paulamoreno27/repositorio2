@@ -5,7 +5,7 @@
 ###### título H6 (el más pequeño)
 
 Segundo repositorio en _cursiva_ de __SMX2__ *2324*
-Estilos se pueden __anidar__
+Estilos se pueden **_anidar_**
 
 Listas ordenadas
 1. Primer elemento de la lista
@@ -36,4 +36,6 @@ oergfojgoiejhg fjwrhpoigjeoigoier ghge`proighoiegroi ergpirgpherojgneo jfoiwrhjg
 </html>
 ```
 [link](https://www.fje.edu/ca/fje "Enlace a la web del cole")
+
+
 ! [Imagen de papi eladio](https://github.com/paulamoreno27/repositorio2/blob/main/papieladio.jpg "Titulo opcional")
